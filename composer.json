@@ -22,12 +22,6 @@
             "@phpunit"
         ]
     },
-    "repositories": {
-        "mediawiki/oauthclient": {
-            "type": "vcs",
-            "url": "https://github.com/wikimedia/mediawiki-oauthclient-php.git"
-        }
-    },
     "require": {
         "php": ">=8.1",
         "guzzlehttp/guzzle": "~6.3||~7.0",
